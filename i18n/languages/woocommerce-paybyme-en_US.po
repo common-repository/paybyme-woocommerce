@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.3\n"
+
+msgid "title"
+msgstr "PaybyMe"
+
+msgid "methodDesc"
+msgstr "PaybyMe allows your customers to make easy, safe and fast payments with their bank/credit cards."
+
+msgid "orderButtonText"
+msgstr "Pay with PaybyMe"
+
+msgid "orderDesc"
+msgstr "You can complete your purchase fast  and easy as keeping all your information secure with PaybyMe."
+
+msgid "receiptPage"
+msgstr ""
+
+msgid "adminPageText"
+msgstr ""
+"PaybyMe WooCommerce Payment Gateway allows you to accept payment on your WooCommerce store via PaybyMe as it provides a safe and fast payment experience for your customers.\n"
+"To open a PaybyMe merchant account click  <a href=\"https://www.payby.me\" target=\"_blank\">here.</a>"
+
+# --------------entryTitle-----------------
+msgid "pbmApiUsernameTitle"
+msgstr "API Username "
+
+msgid "pbmApiTokenTitle"
+msgstr "API Token"
+
+msgid "pbmApiSecretKeyTitle"
+msgstr "API Secret Key"
+
+msgid "pbmDefaultKeywordIdTitle"
+msgstr "Default Keyword ID"
+
+msgid "pbmSecondKeywordIdTitle"
+msgstr "Second Keyword ID"
+
+msgid "pbmVPOSRequestPageTitle"
+msgstr "VPOS Request Page"
+
+msgid "pbmVPOSPaymentPageTitle"
+msgstr "VPOS Payment Page"
+
+msgid "pbmSubCompanyTitle"
+msgstr "Sub Company"
+
+msgid "pbmAssetNameTitle"
+msgstr "Asset Name"
+
+msgid "pbmEnableDebugLoggingTitle"
+msgstr "Enable Debug Log"
+
+# --------------entryDesc-----------------
+msgid "pbmApiUsernameDesc"
+msgstr "Username for PaybyMe API"
+
+msgid "pbmApiTokenDesc"
+msgstr "Authenticator for reaching PaybyMe API"
+
+msgid "pbmApiSecretKeyDesc"
+msgstr "API Secret Key"
+
+msgid "pbmApiKeywordIdDesc"
+msgstr "API Keyword ID"
+
+msgid "pbmEnableSecondKeywordIdDesc"
+msgstr "Enable Second Keyword"
+
+msgid "pbmVPOSRequestPageDesc"
+msgstr "The page that sends the payment request"
+
+msgid "pbmVPOSPaymentPageDesc"
+msgstr "Payment page that user is directed"
+
+msgid "pbmSubCompanyDesc"
+msgstr "Your Company name"
+
+msgid "pbmAssetNameDesc"
+msgstr "Name for your product/service"
+
+msgid "pbmEnableDebugLoggingDesc"
+msgstr "Enable Debug Log"
+
+# --------------selectOption-----------------
+msgid "pbmUSD"
+msgstr "USD"
+
+msgid "pbmEUR"
+msgstr "EUR"
+
+msgid "pbmGBP"
+msgstr "GBP"
+
+msgid "pbmRUB"
+msgstr "RUB"
+
+msgid "pbmTRY"
+msgstr "TRY"
